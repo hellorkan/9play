@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=9
-game=.
+owner=342430414427914240
+prefix=S
+game=
 stayinchannel=true
 songinstatus=false
-token=NTQ0MTM0OTQyMjY3OTMyNjcy.D0GsrQ.1CPKMixias44tpD1QNwQo6eNwY4
+token=NTU4MjkxOTg2NjQyMzcwNTcx.D3Utsg.HywU7FWZRm_MwhHCKDkPUhyjxso
