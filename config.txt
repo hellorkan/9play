@@ -1,6 +1,6 @@
 owner=460606140666085378
-prefix=Ch
-game=Navi Music.
+prefix=Ha
+game=Púre Server.
 stayinchannel=true
 songinstatus=false
-token=NTc3OTc0NjYxNjk5MzM4MjQx.XNs27g.KgwWygrCW2DO2_qk2quM7yONXgo
+token=NjE4NTMzMjcxMTYwMjI1ODAy.XXQBqQ.gKWuYwmHX_Qq2p85MZVxCWtBWoA
